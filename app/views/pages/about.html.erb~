@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Inventcloud | <%= @title %></title>
+	</head>
+	<body>
+		<h1>This is the about page</h1>
+		<p>
+		This is the about page with links to
+		<a href="http://bbc.co.uk/">Test Site</a>
+		</p>
+	</body>
+</html>>
