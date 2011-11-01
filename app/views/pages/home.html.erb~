@@ -3,6 +3,9 @@
 		This is the home page of the site and will contain lots of advertising content
 		<a href="http://bbc.co.uk/">Test Site</a>
 		</p>
+		<p>
+		This is another paragraph of text
+		</p>
 
 		<%= link_to "Sign up now!", '#', :class => "signup_button round" %>
 
